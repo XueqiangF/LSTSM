@@ -1,3 +1,3 @@
 # LSTSM
 LSTSM: Towards a General-Purpose Framework for Multi-Modality Polarization Scattering Imaging
-# The code of LSTSM will release soon. Thanks for your attention. Good LSTSM is eager to be asked. I like the discussions very much.
+# Once the paper is accepted, the code and dataset of LSTSM will release soon. Thanks for your attention.
